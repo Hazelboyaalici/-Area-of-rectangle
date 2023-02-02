@@ -1,0 +1,17 @@
+C:\Users\HAZEL\Desktop\C# START\Integer\Integer\bin\Debug\net6.0-windows\Integer.exe
+C:\Users\HAZEL\Desktop\C# START\Integer\Integer\bin\Debug\net6.0-windows\Integer.deps.json
+C:\Users\HAZEL\Desktop\C# START\Integer\Integer\bin\Debug\net6.0-windows\Integer.runtimeconfig.json
+C:\Users\HAZEL\Desktop\C# START\Integer\Integer\bin\Debug\net6.0-windows\Integer.dll
+C:\Users\HAZEL\Desktop\C# START\Integer\Integer\bin\Debug\net6.0-windows\Integer.pdb
+C:\Users\HAZEL\Desktop\C# START\Integer\Integer\obj\Debug\net6.0-windows\Integer.csproj.AssemblyReference.cache
+C:\Users\HAZEL\Desktop\C# START\Integer\Integer\obj\Debug\net6.0-windows\Integer.Form1.resources
+C:\Users\HAZEL\Desktop\C# START\Integer\Integer\obj\Debug\net6.0-windows\Integer.csproj.GenerateResource.cache
+C:\Users\HAZEL\Desktop\C# START\Integer\Integer\obj\Debug\net6.0-windows\Integer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HAZEL\Desktop\C# START\Integer\Integer\obj\Debug\net6.0-windows\Integer.AssemblyInfoInputs.cache
+C:\Users\HAZEL\Desktop\C# START\Integer\Integer\obj\Debug\net6.0-windows\Integer.AssemblyInfo.cs
+C:\Users\HAZEL\Desktop\C# START\Integer\Integer\obj\Debug\net6.0-windows\Integer.csproj.CoreCompileInputs.cache
+C:\Users\HAZEL\Desktop\C# START\Integer\Integer\obj\Debug\net6.0-windows\Integer.dll
+C:\Users\HAZEL\Desktop\C# START\Integer\Integer\obj\Debug\net6.0-windows\refint\Integer.dll
+C:\Users\HAZEL\Desktop\C# START\Integer\Integer\obj\Debug\net6.0-windows\Integer.pdb
+C:\Users\HAZEL\Desktop\C# START\Integer\Integer\obj\Debug\net6.0-windows\Integer.genruntimeconfig.cache
+C:\Users\HAZEL\Desktop\C# START\Integer\Integer\obj\Debug\net6.0-windows\ref\Integer.dll
